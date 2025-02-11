@@ -103,7 +103,7 @@ void play_click_sound() {
 ```
 
 ## DEMONSTRAÇÃO
-- [Video📽️](https://drive.google.com/file/d/1Wgj5784C5Xs-128YfSatKYl4GhBLDUYN/view?usp=drivesdk){:target="_blank"}
+- [Video📽️](https://drive.google.com/file/d/1Wgj5784C5Xs-128YfSatKYl4GhBLDUYN/view?usp=drivesdk)
 
 
 
